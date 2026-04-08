@@ -273,6 +273,7 @@ Product management and business analysis.
 - [**technical-writer**](categories/08-business-product/technical-writer.md) - Technical documentation specialist
 - [**ux-researcher**](categories/08-business-product/ux-researcher.md) - User research expert
 - [**wordpress-master**](categories/08-business-product/wordpress-master.md) - WordPress development and optimization expert
+- [**saas-marketing-agents**](https://github.com/shalintripathi/saas-marketing-agents) - 59 specialized AI agents for B2B SaaS marketing across 12 disciplines with CATALYST orchestration framework
 
 ### [09. Meta & Orchestration](categories/09-meta-orchestration/)
 **Plugin:** `voltagent-meta`
